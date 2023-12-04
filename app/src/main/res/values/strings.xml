@@ -1,0 +1,272 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Изучение Английского языка</string>
+    <string name="welcome">Приветствуем вас в Englishlearn!</string>
+    <string name="Start">Начать изучение</string>
+    <string name="Pesenya">Песня</string>
+    <string name="Alphavit">Алфавит</string>
+    <string name="Uroki">Уроки</string>
+    <string name="Igra">Игра</string>
+    <string name="vibor">Выберите режим</string>
+    <string name="title_activity_uroki">Uroki</string>
+    <string name="spisok">Список уроков</string>
+    <string name="spoyte">Спойте песню</string>
+    <string name="playmuz">Включить/Выключить</string>
+    <string name="txtPesnya">
+        \n\nWhat do you like to do in the summer?
+\nIn the summer
+\nWhat do you like to do in the summer?
+\nIn the summer
+
+\n\nI like to swim
+\nI like to bike
+\nI like to surf
+\nI like to hike
+
+\n\nWhat do you like to do in the summer?
+\nIn the summer
+\nWhat do you like to do in the summer?
+\nIn the summer
+
+\n\nI like to read
+\nI like to camp
+\nI like to play
+\nI like to dance
+
+\n\nWhat do you like to do in the summer?
+\nIn the summer
+\nWhat do you like to do in the summer?
+\nIn the summer
+
+\n\nSwim
+\nBike
+\nSurf
+\nHike
+
+\n\nRead
+\nCamp
+\nPlay
+\nDance
+
+\n\nWhat do you like to do in the summer?
+\nIn the summer
+\nWhat do you like to do in the summer?
+\nIn the summer.</string>
+
+    <string name="less1"><b>Предлагаю немного рассказать о себе!</b>
+\n\nMy name is — меня зовут (дословно — моё имя) . И пока мы не познакомились с транскрипцией достаточно хорошо, придётся пользоваться кириллицей (май нэйм из).
+
+\n\nНекоторые из вас имеют начальные знания, некоторые нет. В любом случае, мы начнём с чистого листа. И наверное, мы будем не очень оригинальны, но алфавит и произношение — это важно.
+\n\nТак же мы предполагаем выучить сегодня 10 слов.
+
+\n\n<b>5 существительных</b>
+\n\nlife (лайф) — жизнь
+\n\nday (дэй) — день
+\n\nhome (хом) — дом
+\n\nbook(бук) — книга
+\n\nstreet (стрит) — улица
+
+\n\n<b>5 глаголов</b>
+\n\nlive (лив) - жить
+\n\nhelp (хэлп) - помогать
+\n\ngo (гоу) - идти
+\n\nthink (синк) — думать (звук после «с» - нечто среднее между «и» и «ы».
+\n\nlove (лав) — любить
+
+\n\nИ если у вас ещё есть время и желание, посмотрите на местоимения. Позднее мы уделим им больше времени.</string>
+    <string name="less2">\n\n<b>Главное - после вопросительного слова сказать вспомогательный глагол.</b>
+\n\n<b>Вот великая формула английского вопроса:</b>
+
+\n\n<u><b>Вопросительное слово</b></u>> <i>(например: WHAT, WHO, WHEN, WHY, HOW MANY TIMES)</i>
+\n\n<u><b>Вспомогательный глагол</b></u> - иначе маркер <i>(например: DID, HAVE, WILL, ARE)</i>
+\n\n<u><b>Подлежащее</b></u> <i>(например: MIKE, THE GORILLA, THE CHILDREN, MY FAVOURITE PIG)</i>
+\n\n<u><b>Главный глагол</b></u> (а после него все остальное) <i>(например: MARRY, CRYING, EAT MY BREAKFAST, MEET TOMORROW)</i>
+\n\nЧто можно составить из вышеупомянутых примеров в скобках?
+
+\n\nHow many times did Mike marry? - Сколько раз Майк женился?
+\n\nWhy are the children crying? - Почему дети плачут?
+\n\nWhen did the gorilla eat my breakfast ? - Когда горилла съела мой завтрак?
+\n\nWho will my favourite pig meet tomorrow? - Кого моя любимая свинка встретит завтра?
+\n\nИногда вопросительное слово пропускается. Тогда нам нужно только 2, 3 и 4.
+
+\n\nDid the gorilla eat my breakfast?
+\n\nAre the children crying?
+\n\nДля каждого английского времени есть СВОЙ вспомогательный глагол, по нему мы и понимаем, в каком времени мы находимся.
+
+\n\n<b>Вспомогательный глагол</b> - это маркер, который никогда не переводится. <i>Пример "What have the girls bought?" - "Что девушки купили?".</i> "have" здесь - просто маркер, который показывает, что мы находимся во времени Present Perfect.
+
+\n\n <b>Итак, для того, чтобы правильно составить вопрос нужно:</b>
+
+\n\n1. Определить, в каком времени вопрос
+\n\n2. Вспомнить, какой в этом времени вспомогательный глагол
+\n\n3. Построить предложение, не забывая о 1-2-3-4 (см. выше)
+\n\n<b>Переведите предложения:</b>
+
+\n\n-Почему Ричард открыл эту дверь?
+\n\n-Где ты будешь ужинать?
+\n\n-Когда Эдвард и его жена обычно встают утром?
+\n\n-Ты купил грибы?
+\n\n-Что вчера смотрел дядя Морган по телевизору?</string>
+    <string name="less3">\n\n <b>Чем отличаются "I like" и "I'd like"</b>
+        \n\n"I like" и "I'd like" - "Мне нравится" и "Я хотел бы".
+\n\n"What does Ann like?" - "Что нравится Анне?" "What is Ann like?" - "Расскажи мне про Анну".
+
+\n\n1a) "I <b>like</b> coffee" - "Мне нравится кофе" . I like grapefruits. I like travelling. <u>Здесь <b>like - глагол</b></u>, он переводится <b>"любить"</b>.
+
+\n\n1b) "What does Ann <b>like</b>?" - "Что нравится Анне?" \n <u>Здесь <b>like</b> - глагол</u>, он переводится <b>"любить"</b>. Мы это понимаем, потому что в <u>вопросе вспомогательный глагол <b>"does".</b></u>
+
+        \n\n2) "I'd <b>like</b> some coffee" - "Я хотел бы кофе" (<b>"I'd"</b> значит <b>"I would"</b>, в <b>разговорной речи</b> мы <b>всегда</b> его <b>сокращаем</b>).
+\nЗаметьте, что после <b>"I like"</b> мы говорим глагол в <b>-ing\'овой форме</b> (I like travelling - Я люблю путешествовать), а после "I'd like" - первую форму глагола (I\'d like to travel around Russia - Я бы хотел поездить по России.)
+
+\n\n3) "What is Ann like?" - "Расскажи мне про Анну" (буквально: "что есть Анна похожа на?"). <u>Здесь like - <b>прилагательное</b></u>, переводится "похожий на". Мы это понимаем, потому что в вопросе глагол "is".
+
+\n\n <b>Еще примеры:</b>
+
+\n\n"I don't like cooking" - "Я не люблю готовить". (случай 1a)
+\n\n"Why don't you like hamsters?" - "Почему ты не любишь хомячков?" (случай 1b)
+\n\n"I'd like to visit Italy again" - "Я бы хотел съездить в Италию еще раз" (случай 2)
+\n\n"He isn't like his father" - "Он не похож на своего отца". (случай 3)
+\n\n"I really like white coffee" - "Я очень люблю кофе с молоком" (случай 1a)
+\n\n"Do your parents like living in the country?" - "Твоим родителям нравится жить за городом"? (случай 1b)
+\n\n"Would you like some more wine?" - "Хотите еще вина?" (случай 2)
+\n\n"Is Berlin really like Boston?" - "Берлин действительно похож на Бостон?" (случай 3)
+Переведите на английский:
+
+\n\nМне не хотелось бы сейчас кофе. Я бы хотел чаю.
+\n\nЧто из себя представляет остров Тенерифе?
+\n\nТвоим друзьям нравится жить в деревне?
+\n\nТы бы хотел посмотреть этот фильм еще раз?
+\n\nАнглийские фильмы не похожи на американские</string>
+    <string name="less4">
+        \n\n<b>Почему иногда надо говорить "do you have", а иногда - "have you"?</b>
+        \n\nПотому что глагол <b>HAVE</b> имеет <b>ЧЕТЫРЕ</b> значения. Плюс нужно знать про форму <b>HAVE GOT</b>.
+
+\n\n1а) "I have a house, a husband and a car" - "У меня есть дом, муж и машина". <u>Здесь <b>have</b> - означает "иметь, владеть"</u> и на русский наиболее естественно переводится как <b>"у меня есть"</b>.
+
+\n\n<b>Отрицательная форма</b>: I don\'t have a wife.
+\n\n<b>Вопросительная форма</b>: Do you have any money?
+\n\nСказать "I'm having a flat" (то есть употребить в continuous) - нельзя.
+\n\n1b) Вместо <b>HAVE</b> (в значении
+\n\n1a) всегда можно сказать <b>HAVE GOT</b>: "I've got a flat, a wife and two computers" - "У меня есть квартира, жена и два компьютера". Но будьте внимательны!
+
+\n\n<b>Отрицательная форма</b>: I haven\'t got a wife.
+\n\n<b>Вопросительная форма</b>: Have you got any money?
+\n\nНе забудьте в разговорной речи сократить "have". То есть не "I have got a computer" (фу!), а "\'ve got a computer".
+\n\n2) "I never <b>have breakfast"</b> - "Я никогда не завтракаю". <u>Здесь <b>"have"</b> - часть устойчивого выражения</u>. Да, их много и нужно запоминать. Но зато, зная их, вы звучите очень естественно.
+\n <i>Например</i>: "have a shower" ("принять душ"), "have a coffee" ("выпить кофе"), "have fun" ("развлекаться"), "have a swim" - поплавать, и даже "Thanks for having me" - не "спасибо, что меня поимели", а "спасибо, что пригласили меня в гости" (стандартная фраза, говорится хозяевам, когда гость уходит.)
+
+\n\n<b>Отрицательная форма</b>: I don\'t have breakfast.
+\n\n<b>Вопросительная форма</b>: Do you usually have a morning swim?
+\n\nГоворить "I\'m having breakfast " (то есть употреблять в continuous) - МОЖНО и нужно.
+\n\n3) "Sorry, I <b>have</b> to go" - "Прости, но мне нужно идти". <u>Здесь <b>"have"</b> - модальный <b>глагол</b></u>, означает "я должен", "мне нужно".
+
+\n\n<b>Отрицательная форма</b>: I don\'t have to go. Я не должен идти (в смысле "могу, конечно, но не обязательно").
+\n\n<b>Вопросительная форма</b>: Do you have to do work at weekends?
+\n\nСказать "I\'m having to go " (то есть употребить в continuous) - нельзя.
+\n\n4) <b>"I\'ve</b> bought a new car" - "Я купил новую машину". <u>Здесь <b>"have"</b> - вспомогательный глагол</u>, иначе маркер, который никак не переводится, а только показывает, что мы находимся во времени Present Perfect. (Ой! Что это такое - Present Perfect? Что-то ужасное!)
+
+\n\n<b>Отрицательная форма</b>: I haven\'t bought any eggs.
+\n\n<b>Вопросительная форма</b>: Have you seen my new pen?
+\n\nНе забудьте в разговорной речи сократить "have". То есть не "I have answered all my emails" а "I've answered all my emails".
+\n\n <b><i>Внимание!</i></b> Сейчас вы сможете пополнить гордые ряды тех, кто никогда не делает одной из самых распространенных ошибок русских студентов!
+\n <b><u>Итак, запомните</u></b>: ПОСЛЕ <b>he, she, it,</b> а также всех слов, которые можно заменить на <b>he, she, it</b> (например John, Melissa, my favourite yellow chair, и т.д. - то есть в третьем лице единственного числа) - <u>никогда не говорите <b>"he have"</b>! Всегда говорите <b>HE HAS!</b></u>
+
+\n\n<b>Еще примеры:</b>
+
+\n\n"I have a cousin in New York" - "У меня есть двоюродный брат (или двоюродная сестра) в Нью-Йорке". (случай 1a)
+\n\n"Have you got some time for me?" - "У тебя найдется для меня немного времени?" (случай 1b)
+\n\n"Valerie! Are you having a shower?" - "Валери! Ты что там, принимаешь душ?" (случай 2)
+\n\n"Do you really have to leave?" - "Тебе что, правда нужно идти?". (случай 3)
+\n\n"I haven\'t finished yet, please wait" - "Я еще не закончил, подожди, пожалуйста" (случай 4)
+\n\n"Peter doesn\'t have a TV." - "У Питера нет телевизора". (случай 1a)
+\n\n"Peter hasn\'t got a TV" - "У Питера нет телевизора". (случай 1b)
+\n\n"Have fun!" - "Желаю тебе хорошо повеселиться!" (случай 2)
+\n\n"Ray\'s wife doesn\'t have to work." - "Жене Рея нет необходимости работать". (случай 3)
+\n\n"Have you been to Japan? - Yes, I have. Twice." - "Ты был в Японии? - Да. Два раза." (случай 4)
+\n\n <b><i>Итак, глагол HAVE в зависимости от значения (1a, 1b, 2, 3, или 4) может:</i></b>
+
+\n\nИметь вопросительную форму: либо do you have, либо have you
+\n\nИметь отрицательную форму: либо I don\'t have, либо I haven\'t
+\n\nЛибо употребляться в Continuous, либо нет
+\n\nЛибо переводиться, либо - если это маркер - нет.
+\n\n<b>Переведите на английский:</b>
+
+\n\nГде Дженнифер? - Пьет кофе.
+\n\nЯ не видела твои носки! Сам ищи!
+\n\nОна тоже должна быть на встрече?
+\n\nУ Сюзан нет молодого человека.
+\n\nВ твоей машине есть кондиционер?
+\n\nЯ должен вернуться домой к 6 часам.
+\n\nЛора купила новый мотоцикл!
+\n\nДа, это правда - я никогда не принимаю душ!</string>
+    <string name="less5">\n\n<b>Что такое Present Perfect?</b>
+        \n\nЭто время глагола, суть которого: действие было в прошлом, результат его - в настоящем.
+
+\n\nДля того, чтобы овладеть любым грамматическим явлением, вам нужно знать <b>ДВЕ ВЕЩИ</b>:
+\n\n1) Как оно образуется
+\n\n2) Когда оно употребляется.
+
+
+\n\n <b>Как образуется Present Perfect?</b>
+
+
+ 	\n\n <b><i>Present Perfect</i></b>
+\n\n <b>+ Утвердительная форма	подлежащее + have / has + 3 форма глагола</b>
+
+\n\nI’ve written three love letters. – Я написал три любовных письма (еще чернила не высохли).
+\n\nDoctor Pedro’s just arrived. – Доктор Педро только что приехал.
+\n\n<b>- отрицательная форма	подлежащее + have / has + NOT + 3 форма</b>
+
+\n\nI haven’t spoken to him yet. – Я еще с ним не говорил.
+\n\nMy luggage hasn’t arrived yet. – Мой багаж еще не прибыл.
+\n\n<b>? вопросительная форма	(вопросит. слово) + have / has + подлежащее + 3 форма</b>
+
+\n\n(Why) have you eaten my sandwich? – (Почему) ты съел мой бутерброд?
+\n\nЗдесь глагол <b>HAVE</b> никак не переводится, а просто показывает нам, в каком времени мы находимся.
+
+\n\nВ устной речи <b>HAVE</b> всегда сокращается до <b>\'VE.</b>
+
+\n\nТретья форма глагола берется из третьего столбца неправильных глаголов (do - did - done), а если ее там нет - ура! - к глаголу просто добавляется окончание -ED (answered, worked). Пример: I\'ve answered all my emails (Я ответил на все электронные письма).
+
+\n\nПосле he, she, it (то есть 3 лицо единственное число) нужно говорить HAS (а не have).
+        \n<i>Пример:</i> Jeremy has eaten your lunch (Jeremy – это “he”, а после “he” надо “has”).
+
+\n\n <b><u>Сразу сделайте УПРАЖНЕНИЕ 1.</u></b>
+
+\n\nРаскройте скобки и поставьте глаголы в Present Perfect. (а заодно ответьте: каким временем Present Perfect переводится на русский язык?)
+
+\n\nWe (have) five dance teachers. – У нас было пять учителей танцев.
+\n\nI (buy) a fat hamster. – Я купил жирного хомячка.
+\n\nMr Collins (not marry) his neighbour yet. – Мистер Коллинз еще не женился на соседке.
+\n\nYou know, this girl (not be) to a casino. – Знаешь, эта девочка никогда не была в казино.
+\n\nMichael, (you / paint) the chair yet? - Майкл, ты уже покрасил стул?
+\n\n(Your friend Puppo / ever / try) Mongolian tea with fat? - Твой друг Пуппо когда-нибудь пробовал монгольский чай с жиром?
+
+\n\n <b>Теперь, когда с формой мы разобрались, следующий вопрос:</b>
+
+
+\n\nКогда употребляется Present Perfect?
+
+\n\nPresent Perfect имеет ТРИ значения. В этом уроке мы рассмотрим первое. Коротко его смысл: «ЧТО-ТО ПРОИЗОШЛО, И СЕЙЧАС ЕСТЬ РЕЗУЛЬТАТ». То есть, если действие было в прошлом, а результат виден в настоящем, мы употребляем Present Perfect.
+
+\n\n\'My cat has eaten a fly\' - \'Мой кот съел муху\'. То есть, если кот съел муху, а сейчас стоит и радуется - потому что съел муху – мы употребим Present Perfect. Или если я только что разбил чашку друга, и осколки валяются на полу (результат действия виден прямо сейчас), я скажу другу: \'Look! I\'ve broken your cup!\' (Present Perfect).
+
+\n\n<b>Полезные мелочи:</b>
+
+\n\nа) «Только что» (just), «уже» (already) и «еще не» (yet) – лучшие друзья Present Perfect. I\’ve already done it! I\’ve just finished! I haven’t finished yet! Хотите сказать предложение с «уже», «еще не» или «только что» - употребляйте Present Perfect.
+
+\n\nb) По-русски надо говорить «он уже пришел?», а по-английски – «has he arrived yet?» (а не already)
+
+\n\nc) Есть классная фраза: «Not yet». Означает «еще нет».
+
+        \n\n <u><b>УПРАЖНЕНИЕ 2. Переведите:</b></u>
+
+\n\nЯ купил удивительный ананас.
+\n\nТы уже вернулся из Боливии?
+\n\nВаня и Джордж уже выпили по шесть кружек.
+\n\nОн решил выучить китайский.
+\n\nТина, я знаю - твой муж уже продал твои брильянты.
+\n\nДжон Леннон посетил меня ночью и рассказал о моем будущем.
+\n\nТы уже вымыл ноги, дорогой? – Еще нет.</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
